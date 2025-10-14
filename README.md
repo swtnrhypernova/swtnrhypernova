@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swtnrhypernova&label=Profile%20views&color=0e75b6&style=flat" alt="swtnrhypernova" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swtnrhypernova" alt="swtnrhypernova" /></a> </p>
-
 - 🌱 i’m currently learning **how to design and code, starting from front-end development**
 
 - ⚡ fun fact **i post content about games in my spare time & edit too**
